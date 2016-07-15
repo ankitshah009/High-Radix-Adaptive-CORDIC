@@ -1,4 +1,4 @@
-# High-Radix-Adaptive-CORDIC
+# High-Radix-Adaptive-CORDIC - [ HCORDIC]
 High Radix Adaptive CORDIC Algorithm - Improvement over Traditional CORDIC
 
 Pipelined implementation of high radix adaptive CORDIC as a coprocessor
