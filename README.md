@@ -1,4 +1,4 @@
-# High-Radix-Adaptive-CORDIC - [ HCORDIC]
+# High-Radix-Adaptive-CORDIC
 High Radix Adaptive CORDIC Algorithm - Improvement over Traditional CORDIC
 
 Pipelined implementation of high radix adaptive CORDIC as a coprocessor
@@ -10,3 +10,5 @@ Abstract: The Coordinate Rotational Digital Computer (CORDIC) algorithm allows c
 Citation : Cite the following paper. Official Citation available on IEEE page
 
 S. S. Oza, A. P. Shah, T. Thokala and S. David, "Pipelined implementation of high radix adaptive CORDIC as a coprocessor," 2015 International Conference on Computing and Network Communications (CoCoNet), Trivandrum, 2015, pp. 333-342.
+
+Paper inspired by the work of HCORDIC research group -http://www.ece.uvic.ca/~elec499/2011-summer/group01/
